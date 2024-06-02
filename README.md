@@ -10,7 +10,7 @@
 
 ⚙ **Languages and Tools**:
 
-Python  Jupyter    Colab  PostgreSQL  GitHub  Microsoft Office  Tableau  Git  Canva  Slack
+Python  Jupyter   Colab  PostgreSQL Tableau GitHub  Microsoft Office  Tableau  Git  Canva  Slack
 
 🔗 **Connect with Me**
 
